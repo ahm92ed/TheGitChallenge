@@ -23,5 +23,7 @@ int main()
 	int age ;
 	cin>>age;
 	cout<<"How tall are you?" << endl;
+	int tall;
+	cin>>tall;
 	return 0;
 }
