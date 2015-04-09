@@ -17,9 +17,11 @@ int main()
 	cout<<"What is your name?" << endl;
 	string Name ; 
 	cin>> Name;
+	beeb(Name);
 	cout<<"Done \n";
 	cout<<"How old are you?" << endl;
 	int age ;
 	cin>>age;
+	
 	return 0;
 }
