@@ -6,6 +6,11 @@ void beeb (string n)
 	cout<<"Welcome "<< n <<endl;
 	cout << '\a';
 }
+
+void show_image()
+{
+	
+}
 int main()
 {
 	cout<<"Welcome :)"<<endl;
