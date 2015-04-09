@@ -1,1 +1,2 @@
 All Fix shuold be written in this file .
+dont forgt write all fixs which you make .
