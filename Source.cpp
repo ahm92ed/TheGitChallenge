@@ -9,7 +9,7 @@ void beeb (string n)
 
 void show_image()
 {
-	
+	//Display image 
 }
 int main()
 {
