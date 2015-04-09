@@ -13,5 +13,7 @@ int main()
 	string Name ; 
 	cin>> Name;
 	cout<<"Done \n";
+	cout<<"How old are you?" << endl;
+	
 	return 0;
 }
